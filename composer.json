@@ -1,5 +1,5 @@
 {
-	"name": "pwfisher/command-line-php",
+	"name": "blumfontein/command-line-php",
 	"type": "library",
 	"description": "PHP Command Line interface class. Provides friendly and flexible CLI argument parsing.",
 	"keywords": ["cli", "parsing", "parser"],
